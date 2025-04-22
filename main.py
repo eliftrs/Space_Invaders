@@ -13,3 +13,7 @@ update_score(5)
 
 print("Oyun başlıyor...")
 print("=== SPACE INVADERS ===")
+def update_score(score):
+    score += 10
+    print(f"Skor: {score}")
+    return score
