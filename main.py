@@ -12,3 +12,4 @@ update_score(10)
 update_score(5)
 
 print("Oyun başlıyor...")
+print("=== SPACE INVADERS ===")
