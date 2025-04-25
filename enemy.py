@@ -4,7 +4,8 @@ class Enemy:
         self.y = y
 
     def move(self):
-        self.x += 1
+       enemy_x += enemy_speed
+
 class Alien:
     def __init__(self, name):
         self.name = name

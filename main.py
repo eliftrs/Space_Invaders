@@ -17,3 +17,4 @@ def update_score(score):
     score += 10
     print(f"Skor: {score}")
     return score
+enemy_speed = 1.0  # Düşman hızı
