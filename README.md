@@ -7,6 +7,5 @@ Bu proje, klasik Space Invaders oyununu Python ile geliştirme çalışmasıdır
 -Farklı arkaplanlar 
 # Space Invaders
 Basit bir Python oyun projesi. Düşmanlar, skor sistemi ve oyuncu sınıfı içerir.
-projeyi değiştiricem
 oyun projesi güncelleme.
 projeyi güncelleme.
