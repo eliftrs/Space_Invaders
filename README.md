@@ -9,4 +9,4 @@ Bu proje, klasik Space Invaders oyununu Python ile geliştirme çalışmasıdır
 -Basit bir Python oyun projesi. 
 Düşmanlar, skor sistemi ve oyuncu sınıfı içerir.
 oyun projesi güncelleme.
-projeyi güncelleme
+projeyi güncelleme.
