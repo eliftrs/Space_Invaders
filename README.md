@@ -4,7 +4,7 @@ Bu proje, klasik Space Invaders oyununu Python ile geliştirme çalışmasıdır
 - Skor takibi
 - Ses ve görsellerle zenginleştirilmiş içerik
 -Farklı arkaplanlar 
-# Space Invaders
+# Space Invaders#
 -Basit bir Python oyun projesi. 
 Düşmanlar, skor sistemi ve oyuncu sınıfı içerir.
 oyun projesi güncelleme.
